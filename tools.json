@@ -3,20 +3,20 @@
 
     {
       "name": "Germanisch",
-      "file": "tools/karten/stadtplan-berlin.html",
+      "file": "Tools/Indo-Europäisch/Germanisch.html",
       "category": "Sprachfamilien",
       "subcategory": "Indo-Europäisch",
       "emoji": "🗺️"
     },
     {
       "name": "Weltkarte interaktiv",
-      "file": "tools/karten/weltkarte.html",
+      "file": "Tools/Karten/Muttersprachen-Karte.html",
       "category": "Karten"
       "emoji": "🌍"
     },
     {
       "name": "Thai-Kadai",
-      "file": "tools/karten/klima-europa.html",
+      "file": "Tools/Thai-Kadai/Thai Kadai Version 4.html",
       "category": "Sprachfamilien",
       "emoji": "🌡️"
-    },
+    }
