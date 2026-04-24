@@ -11,7 +11,7 @@
     {
       "name": "Weltkarte interaktiv",
       "file": "Tools/Karten/Muttersprachen-Karte.html",
-      "category": "Karten"
+      "category": "Karten",
       "emoji": "🌍"
     },
     {
@@ -20,3 +20,5 @@
       "category": "Sprachfamilien",
       "emoji": "🌡️"
     }
+  ]
+}
